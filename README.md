@@ -6,7 +6,7 @@ Gathering of all links to public web3 security audit reports
 
 [ImmuneBytes](https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports)
 
-[Halbonr](https://github.com/HalbornSecurity/PublicReports)
+[Halborn](https://github.com/HalbornSecurity/PublicReports)
 
 [Oak security](https://github.com/oak-security/audit-reports)
 
