@@ -1,4 +1,4 @@
-# Public Web3 Audit Eeports
+# Public Web3 Audit Reports
 Gathering of all links to public web3 security audit reports
 
 ## Links
