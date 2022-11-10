@@ -2,9 +2,11 @@
 Gathering of all links to public web3 security audit reports
 
 ## Links to audit reports
+[C4](https://github.com/Tomosuke0930/C4-report-categolized)
+
 [Consensys](https://consensys.net/diligence/audits/)
 
-[C4](https://github.com/Tomosuke0930/C4-report-categolized)
+[ChainSecurity](https://github.com/ChainSecurity/audits)
 
 [ImmuneBytes](https://github.com/ImmuneBytes/Smart-Contract-Audit-Reports)
 
@@ -14,8 +16,3 @@ Gathering of all links to public web3 security audit reports
 
 [Trail of Beats](https://github.com/trailofbits/publications/tree/master/reviews)
 
-## Links to exploit POC
-
-- https://github.com/nukanoto/audius-exploit
-- https://github.com/Poor4ever/Some-defivuln-exp/blob/main/src/shadowfi-exp.sol
-- https://github.com/massun-onibakuchi/nomad-bridge-exploit-poc
