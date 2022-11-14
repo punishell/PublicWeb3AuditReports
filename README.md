@@ -18,7 +18,7 @@ Gathering of all links to public web3 security audit reports
 [Trail of Beats](https://github.com/trailofbits/publications/tree/master/reviews)
 
 
-## Auction Reports
+## Auction/Market Reports
 
 - https://certificate.quantstamp.com/full/nft-market-preset-htc-auction-store
 
