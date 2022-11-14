@@ -13,6 +13,18 @@ Gathering of all links to public web3 security audit reports
 [Halborn](https://github.com/HalbornSecurity/PublicReports)
 
 [Oak security](https://github.com/oak-security/audit-reports)
+[QuantStamp](https://certificate.quantstamp.com/)
 
 [Trail of Beats](https://github.com/trailofbits/publications/tree/master/reviews)
+
+
+## Auction Reports
+
+- https://certificate.quantstamp.com/full/nft-market-preset-htc-auction-store
+
+## AMM Reports
+
+
+## Borrowing/Lending Reports
+
 
