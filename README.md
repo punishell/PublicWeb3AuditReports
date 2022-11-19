@@ -13,6 +13,9 @@ Gathering of all links to public web3 security audit reports
 [Halborn](https://github.com/HalbornSecurity/PublicReports)
 
 [Oak security](https://github.com/oak-security/audit-reports)
+
+[Open Zeppelin](https://www.openzeppelin.com/security-audits)
+
 [QuantStamp](https://certificate.quantstamp.com/)
 
 [Trail of Beats](https://github.com/trailofbits/publications/tree/master/reviews)
