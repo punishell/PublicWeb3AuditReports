@@ -18,6 +18,8 @@ Gathering of all links to public web3 security audit reports
 
 [QuantStamp](https://certificate.quantstamp.com/)
 
+[The auditor book](https://github.com/aviggiano/theauditorbook/releases/tag/latest)
+
 [Trail of Beats](https://github.com/trailofbits/publications/tree/master/reviews)
 
 
